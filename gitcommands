@@ -1,0 +1,6 @@
+
+
+git cnofig --global  user.name "muntaj-lords"
+git config --global  user.email "muntaj@lords.ac.in"
+git config --global color.ui auto
+git remote add origin https://github.com/muntaj-lords/TuteDude.git
